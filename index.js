@@ -1,2 +1,4 @@
 /* code goes here */
-document.getElementById("")
+document.addEventListener("DOMContentLoaded", e => {
+document.getElementById("hiiden-div")
+})
