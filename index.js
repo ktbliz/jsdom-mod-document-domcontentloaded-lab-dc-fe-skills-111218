@@ -1,2 +1,2 @@
 /* code goes here */
-document.select
+document.getElementById("")
