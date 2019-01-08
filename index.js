@@ -1,4 +1,4 @@
 /* code goes here */
 document.addEventListener("DOMContentLoaded", e => {
-document.getElementById("hiiden-div")
+const div = document.getElementById("hiiden-div");
 })
